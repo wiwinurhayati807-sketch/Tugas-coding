@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head><title>Latihan 2</title></head><body>
+
+<h1>Biodata</h1>
+<hr>
+<table border="2">
+
+<tr>     
+   <td>Nama</td>
+   <td>:</td>
+   <td><b>Wiwin Nur Hayati</b></td>
+</tr>
+
+<tr>
+   <td>Alamat</td>
+   <td>:</td>
+   <td>Desa Pekoren</td>
+</tr>
+
+<tr>
+    <td>No Wa</td>
+    <td>:</td>
+    <td>085852411766</td>
+</tr>
+
+<tr>
+    <td>Tinggi badan</td>
+    <td>:</td>
+    <td>144<sub>cm</sub></td>
+</tr>
+
+<tr>
+   <td>Suhu badan</td>
+    <td>:</td>
+    <td>26<sup>o</sup></td>
+</tr>
+
+<tr>
+    <td>Sosial media</td>
+    <td>:</td>
+    <td><a href="https://www.instagram.com/hayati_wiwinnur?igsh=YjNnZ3k4ZTE0YjJ3">Link Instagram</a></td>
+</tr>
+
+<tr>
+    <td>Foto</td>
+    <td>:</td>
+    <td><img src="https://semarsoft.com/wp-content/uploads/2026/08/Redmi-atau-Realme-terbaik-dengan-harga-2-jutaan_1.jpg" alt="ini fotoku"width=50%></td>
+</tr>
+
+<tr>
+    <td>Daftar Keluarga</td>
+    <td>:</td>
+    <td>
+    <ol> 
+        <li>Ayah:Sinin
+        <li>Ibu:Rukila
+        <li>Saudari:Soliha
+    </ol>
+    </td>
+</tr>
+
+</table>
+
+</body>
+</html>
