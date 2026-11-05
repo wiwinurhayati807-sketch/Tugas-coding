@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Video</title>
+</head>
+<body>
+
+  <h1>Catalog Video</h1>
+   
+  <h3>Video YouTube</h3>
+
+    <iframe width="360" height="250"
+      src="https://youtube.com/embed/_x8Bv2rAMn4"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen> 
+    </iframe>
+  
+    <iframe width="360" height="250"
+      src="https://youtube.com/embed/VDoGYwk0tzw"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen> 
+    </iframe>
+
+      <iframe width="360" height="250"
+        src="https://youtube.com/embed/T1tDorodPbM"
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+
+      <iframe width="360" height="250"
+        src="https://youtube.com/embed/2iiVNJG0c00"
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+      </iframe>
+
+    <h3>Video Disney</h3>
+
+      <iframe width="360" height="250" 
+      src="https://secure.disney.com/embed/5dd508006b897ebd6b4f2a72?domain=www.disney.id"
+        title="Disney video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>  
+      </iframe>
+  
+  <iframe width="360" height="250" 
+    src="https://secure.disney.com/embed/632a3f6c71a25dea2ca51fcc?domain=www.disney.id"
+        title="Disney video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>  
+    </iframe>
+
+      <iframe width="360" height="250" 
+        src="https://secure.disney.com/embed/63bc22985b457deacd051fcc?domain=www.disney.id"
+          title="Disney video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen> 
+      </iframe>
+    
+    
+    <h3>Video Tiktok</h3>
+
+      <iframe width="360" height="550"
+        src="https://www.tiktok.com/player/v1/7683812434909383956"
+          title="Tiktok video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+      </iframe>
+
+      <iframe width="360" height="550"
+        src="https://www.tiktok.com/player/v1/7660743544839228692"
+          title="TikTok video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+      </iframe>
+   
+    <iframe width="360" height="550"
+        src="https://www.tiktok.com/player/v1/7268319277982158113"
+          title="TikTok video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+    </iframe>
+
+  </body>
+</html>
