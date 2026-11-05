@@ -1,0 +1,196 @@
+<html>
+
+<body bgcolor="#f2f2f2">
+    <h1 align="center"> 🎓DIKREKTORI PROFIL KELAS </h1>
+    <p align="center"><i>Buku angkatan digital & galeri profil siswa</i></p>
+
+<hr>
+<h3>📌informasi umum siswa</h3>
+<table border="1" width="100%" cellpanding="8">
+    <tr>
+     <td><b>Wali kelas </b></td>
+     <td>Moch Shobirin, S.KOM</td>
+    </tr>
+    <tr>
+     <td><b> Ketua Kelas </b></td>
+     <td> Muhammad Bilal Akbar </td>
+    </tr>
+    <tr>
+      <td><b> Jumlah Siswa </b></td>
+      <td> 36 Siswa </td>
+    </tr>
+    <tr>
+     <td><b>Slogan Kelas</b></td>
+     <td><i>Code Your Dream, Build Your Future</i></td>
+    </tr>
+</table>
+    <br>
+    <h3>Daftar Anggota Kelas</h3>
+    <ol>
+        <li><a href="#bilal">Muhammad Bilal A (Ketua Kelas) </a></li>
+        <li><a href="#attar">Attar Ibrar A.K (Sekretaris Kelas)</a></li>
+        <li><a href="#Azzah"> Rihadatul Azzah (Bendahara Kelas)</a></li>
+        <li><a href="#Naisila"> Naisilatul Khumairo</a></li>
+        <li><a href="#Ais"> Saida Aisya</a></li>
+        <li><a href="#Attar"> Attar Ibrar Al Khafi</a></li>
+    </ol>
+<hr>
+    <h3 id="bilal">PROFIL SISWA #1 - M. BILAL AKBAR</h3>
+    <table border="1" width="100%" cellpadding="10">
+        <tr>
+        <td width="35%" align="center">
+        <img src="https://files.catbox.moe/eprl16.jpeg" width="150" height="190">
+        <h4>Suara Perkenalan</h4>
+        <audio src="C:\Users\User\Downloads\attar.ogg" type="ogg">
+        </audio>
+        </td>
+        <td>
+            <ul>
+                <li><b>NISN:</b>0106630761</li>
+                <li><b>Tempat, Tanggal Lahir:</b>Pasuruan, 13 Maret 2011</li>
+                <li><b>Hobi:</b>Bermain sepak bola</li>
+                <li><b>Cita-Cita:</b>Ingin menjadi tentara</li>
+                <li><b>Motto:</b><i>"Dunia jahat yang baik cuma mama."</i></li>
+            </ul>
+            <details><summary>Lihat Riwayat Dan Keahlian</summary>
+            <p> Riwayat: Siswa kelas X</p>
+            <p>Keahlian: Edit Foto atau VIdeo</p>
+            </details>
+        </td>
+        </tr>
+    </table>
+
+<hr>
+<h3 id="azzah">👤 PROFIL SISWA #02 - RIHADATUL AZZAH</h3>
+
+<table border="1" width="100%" cellpadding="10">
+    <tr>
+        <td width="35%" align="center">
+            <img src="https://files.catbox.moe/4zwro8.jpg" width="150" height="190">
+            <h4>🎙️ Suara Perkenalan</h4>
+            <audio controls>
+                <source src="khirun.mp3" type="audio/mpeg">
+            </audio>
+        </td>
+
+        <td>
+            <ul>
+                <li><b>NISN:</b>0102181174</li>
+                <li><b>Tempat, Tgl Lahir:</b>Pasuruan, 8 Oktober 2010</li>
+                <li><b>Hobi:</b> Mendengarkan musik</li>
+                <li><b>Cita-cita:</b> Jadi orang sukses</li>
+                <li><b>Motto:</b> "Jadilah lebih baik dari dirimu yang kemarin."</li>
+            </ul>
+
+            <details>
+                <summary>Lihat Riwayat dan Keahlian</summary>
+                <p>Riwayat: Siswa kelas X RPL 1.</p>
+                <p>Keahlian: Desain dan menulis.</p>
+            </details>
+        </td>
+    </tr>
+</table>
+
+<p align="right"><a href="#atas">⬆ Kembali ke Atas</a></p>
+
+<hr>
+<h3 id="naisila">👤 PROFIL SISWA #03 - NAISILATUL KHUMAIRO</h3>
+
+<table border="1" width="100%" cellpadding="10">
+    <tr>
+        <td width="35%" align="center">
+            <img src="https://files.catbox.moe/q2eeh8.jpg" width="150" height="190">
+            <h4>🎙️ Suara Perkenalan</h4>
+            <audio controls>
+                <source src="khirun.mp3" type="audio/mpeg">
+            </audio>
+        </td>
+
+        <td>
+            <ul>
+                <li><b>NISN:</b> 0106630761</li>
+                <li><b>Tempat, Tgl Lahir:</b> Pasuruan, 01 Juli 2010</li>
+                <li><b>Hobi:</b> Bersepeda</li>
+                <li><b>Cita-cita:</b> Pengusaha</li>
+                <li><b>Motto:</b> "Jadilah manusia yang jadi." </li>
+            </ul>
+
+            <details>
+                <summary>Lihat Riwayat dan Keahlian</summary>
+                <p>Riwayat: Siswa kelas X RPL 1.</p>
+                <p>Keahlian: Menari</p>
+            </details>
+        </td>
+    </tr>
+</table>
+
+
+<hr>
+
+<h3 id="ais">👤 PROFIL SISWA #04 - SAIDA AISYA</h3>
+
+<table border="1" width="100%" cellpadding="10">
+    <tr>
+        <td width="35%" align="center">
+            <img src="https://files.catbox.moe/a0p50w.jpg" width="150" height="190">
+            <h4>🎙️ Suara Perkenalan</h4>
+            <audio controls>
+                <source src="khirun.mp3" type="audio/mpeg">
+            </audio>
+        </td>
+
+        <td>
+            <ul>
+                <li><b>NISN:</b> 0106109844</li>
+                <li><b>Tempat, Tgl Lahir:</b> Pasuruan, 09 Oktober 2010</li>
+                <li><b>Hobi:</b> Membaca manhwa</li>
+                <li><b>Cita-cita:</b> Berpetualang</li>
+                <li><b>Motto:</b> "Hidup adalah petualangan, jadikan setiap langkahmu sebagai
+            cerita yang berarti disetiap hidupmu." </li>
+            </ul>
+
+            <details>
+                <summary>Lihat Riwayat dan Keahlian</summary>
+                <p>Riwayat: Siswa kelas X RPL 1.</p>
+                <p>Keahlian: Menari</p>
+            </details>
+        </td>
+    </tr>
+</table>
+
+
+<hr>
+
+<h3 id="attar">👤 PROFIL SISWA #05 - ATTAR IBRAR AL KHAFI</h3>
+
+<table border="1" width="100%" cellpadding="10">
+    <tr>
+        <td width="35%" align="center">
+            <img src="https://files.catbox.moe/1li31v.jpeg" width="150" height="190">
+            <h4>🎙️ Suara Perkenalan</h4>
+            <audio controls>
+                <source src="khirun.mp3" type="audio/mpeg">
+            </audio>
+        </td>
+
+        <td>
+            <ul>
+                <li><b>NISN:</b>0119966916 </li>
+                <li><b>Tempat, Tgl Lahir:</b>Pasuruan, 03 Mei 2011</li>
+                <li><b>Hobi:</b> Mengedit Foto & Video</li>
+                <li><b>Cita-cita:</b>Fakultas kedokteran bidang poli anak</li>
+                <li><b>Motto:</b> "Stay enthusiastic in doing goodness and never give up easily."</li>
+            </ul>
+
+            <details>
+                <summary>Lihat Riwayat dan Keahlian</summary>
+                <p>Riwayat: Siswa kelas X RPL 1.</p>
+                <p>Keahlian: Desain dan menulis.</p>
+            </details>
+        </td>
+    </tr>
+</table>
+
+<p align="right"><a href="#atas">⬆ Kembali ke Atas</a></p
+
+</html>
